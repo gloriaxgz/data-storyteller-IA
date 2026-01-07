@@ -25,7 +25,7 @@ with st.expander(" Saiba mais sobre esta ferramenta (O que é, como funciona e p
     Em ambientes corporativos, a capacidade de treinar colaboradores e realizar apresentações exige que dados complexos sejam simplificados sem perda de precisão. Esta ferramenta automatiza e padroniza esse processo.
 
     """)
-
+st.link_button("Acesse o repositório no Github", "https://github.com/gloriaxgz/data-storyteller-IA")
 st.info("""
 ### Como usar:
 
@@ -35,6 +35,7 @@ st.info("""
         
 3. Clique em **Gerar Explicação**.
 """)
+
 
 st.divider()
 
