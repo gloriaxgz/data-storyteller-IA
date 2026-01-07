@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação de **IA Generativa** desenvolvida para converter análises de dados e jargões técnicos em narrativas estratégicas para diferentes públicos. 
 
+### Acesse a aplicação clicando <a href='https://datastoryteller.streamlit.app/'> aqui</a>.
+
 O objetivo principal é otimizar a comunicação entre times de dados e áreas de negócio, garantindo que o valor dos modelos de Machine Learning seja compreendido por tomadores de decisão, equipes de vendas ou colaboradores em treinamento.
 
 ---
